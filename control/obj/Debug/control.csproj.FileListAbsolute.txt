@@ -1,0 +1,11 @@
+C:\Users\murphy\Desktop\control\control\bin\Debug\control.exe.config
+C:\Users\murphy\Desktop\control\control\bin\Debug\control.exe
+C:\Users\murphy\Desktop\control\control\bin\Debug\control.pdb
+C:\Users\murphy\Desktop\control\control\obj\Debug\control.csproj.AssemblyReference.cache
+C:\Users\murphy\Desktop\control\control\obj\Debug\control.csproj.SuggestedBindingRedirects.cache
+C:\Users\murphy\Desktop\control\control\obj\Debug\control.Form1.resources
+C:\Users\murphy\Desktop\control\control\obj\Debug\control.Properties.Resources.resources
+C:\Users\murphy\Desktop\control\control\obj\Debug\control.csproj.GenerateResource.cache
+C:\Users\murphy\Desktop\control\control\obj\Debug\control.csproj.CoreCompileInputs.cache
+C:\Users\murphy\Desktop\control\control\obj\Debug\control.exe
+C:\Users\murphy\Desktop\control\control\obj\Debug\control.pdb
